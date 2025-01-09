@@ -1,8 +1,6 @@
 schemaVersion: 2.3.0
 metadata:
   generateName: cde-ollama-continue
-attributes:
-  controller.devfile.io/storage-type: ephemeral
 projects:
   - name: cde-ollama-continue
     git:
